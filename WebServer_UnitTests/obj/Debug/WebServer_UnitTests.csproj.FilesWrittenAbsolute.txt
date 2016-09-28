@@ -1,0 +1,9 @@
+/home/megan/Documents/cs422/WebServerBasics/WebServer_UnitTests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/megan/Documents/cs422/WebServerBasics/WebServer_UnitTests/bin/Debug/WebServer_UnitTests.dll.mdb
+/home/megan/Documents/cs422/WebServerBasics/WebServer_UnitTests/bin/Debug/WebServer_UnitTests.dll
+/home/megan/Documents/cs422/WebServerBasics/WebServer_UnitTests/obj/Debug/WebServer_UnitTests.dll
+/home/megan/Documents/cs422/WebServerBasics/WebServer_UnitTests/obj/Debug/WebServer_UnitTests.dll.mdb
+/home/megan/Documents/cs422/WebServerBasics/WebServer_UnitTests/bin/Debug/nunit.framework.dll
+/home/megan/Documents/cs422/WebServerBasics/WebServer_UnitTests/bin/Debug/Shouldly.dll
+/home/megan/Documents/cs422/WebServerBasics/WebServer_UnitTests/bin/Debug/WebServerBasics.exe
+/home/megan/Documents/cs422/WebServerBasics/WebServer_UnitTests/bin/Debug/WebServerBasics.exe.mdb

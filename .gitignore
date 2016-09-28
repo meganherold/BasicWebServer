@@ -1,0 +1,57 @@
+
+
+# MonoDevelop
+*.[Oo]bj
+*.exe
+*.dll
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+*.opensdf
+*.resources
+*.res
+*.zip
+*.userprefs
+*.sln
+
+
+
+# NuGet packages
+!.nuget/*
+packages/
+
+# Temporary Files
+~.*
+~$*
+
+
+# pkg-config
+*.pc
+
+
+##############################################################################
+# Mono-specific patterns
+##############################################################################
+
+.dirstamp
+compile
+mono.h
+mono-*.tar.*
+tmpinst-dir.stamp
+msvc/scripts/inputs/
+extensions-config.h
