@@ -31,9 +31,9 @@
 *.csproj
 *.exe.mdb
 *.config
-/Properties
-/bin
-/obj
+*/Properties
+*/bin
+*/obj
 
 
 # NuGet packages
@@ -49,14 +49,3 @@ packages/
 *.pc
 
 
-##############################################################################
-# Mono-specific patterns
-##############################################################################
-
-.dirstamp
-compile
-mono.h
-mono-*.tar.*
-tmpinst-dir.stamp
-msvc/scripts/inputs/
-extensions-config.h
