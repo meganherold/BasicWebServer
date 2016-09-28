@@ -35,9 +35,14 @@
 */bin
 */obj
 */Debug
+*/bin/Debug
+*/obj/x86/Debug
 
-WebServer_UnitTests.csproj
-WebServerBasics.csproj
+*/WebServer_UnitTests.csproj
+*/WebServerBasics.csproj
+*/Properties
+
+*/AssemblyInfo.cs
 
 
 # NuGet packages
