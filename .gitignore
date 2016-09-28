@@ -31,16 +31,15 @@
 *.csproj
 *.exe.mdb
 *.config
-*/Properties
-*/bin
-*/obj
-*/Debug
-*/bin/Debug
-*/obj/x86/Debug
+*/Properties/
+*/bin/
+*/obj/
+*/Debug/
+*/bin/Debug/
+*/obj/x86/Debug/
 
 */WebServer_UnitTests.csproj
 */WebServerBasics.csproj
-*/Properties
 
 */AssemblyInfo.cs
 
