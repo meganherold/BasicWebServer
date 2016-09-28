@@ -28,7 +28,12 @@
 *.zip
 *.userprefs
 *.sln
-
+*.csproj
+*.exe.mdb
+*.config
+/Properties
+/bin
+/obj
 
 
 # NuGet packages
