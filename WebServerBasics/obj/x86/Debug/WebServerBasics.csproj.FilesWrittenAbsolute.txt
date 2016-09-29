@@ -3,3 +3,8 @@
 /home/megan/Documents/cs422/WebServerBasics/WebServerBasics/bin/Debug/WebServerBasics.exe
 /home/megan/Documents/cs422/WebServerBasics/WebServerBasics/obj/x86/Debug/WebServerBasics.exe
 /home/megan/Documents/cs422/WebServerBasics/WebServerBasics/obj/x86/Debug/WebServerBasics.exe.mdb
+/home/megan/Documents/cs422/CptS422-WebServer/WebServerBasics/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/megan/Documents/cs422/CptS422-WebServer/WebServerBasics/obj/x86/Debug/WebServerBasics.exe
+/home/megan/Documents/cs422/CptS422-WebServer/WebServerBasics/obj/x86/Debug/WebServerBasics.exe.mdb
+/home/megan/Documents/cs422/CptS422-WebServer/WebServerBasics/bin/Debug/WebServerBasics.exe.mdb
+/home/megan/Documents/cs422/CptS422-WebServer/WebServerBasics/bin/Debug/WebServerBasics.exe

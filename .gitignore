@@ -38,10 +38,10 @@
 */bin/Debug/
 */obj/x86/Debug/
 
-*/WebServer_UnitTests.csproj
-*/WebServerBasics.csproj
+WebServer_UnitTests.csproj
+WebServerBasics.csproj
 
-*/AssemblyInfo.cs
+AssemblyInfo.cs
 
 
 # NuGet packages
